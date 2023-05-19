@@ -46,18 +46,11 @@ const Home: NextPage = () => {
       {/* Nav bar */}
       <nav className="p-3 sticky top-0 z-10 bg-white">
         <div className="flex items-center justify-between">
-
-
           <div>
             <button>
               <FontAwesomeIcon icon={faBars} size="2xl" />
             </button>
           </div>
-         
-          
-
-
-          
           <div className="text-4xl">
             <span className={`${roboto.className} font-black`}>SHROFF</span>
             STUDIO
